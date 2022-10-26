@@ -3,7 +3,7 @@
     '10/26/22
     'Using a class for Tic Tac Toes
     Sub Main()
-        Console.WriteLine("Tic Tac Toes By Lukah Youngs!")
+        Console.WriteLine("Tic Tac Toes By Lukah Youngs!") ' EDITED ON GITHUB
         Dim myboard As New TTTboard
         myboard.resetboard()
         Dim gameover As Boolean = False
