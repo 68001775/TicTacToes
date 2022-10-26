@@ -5,6 +5,7 @@
     Sub Main()
         Console.WriteLine("Tic Tac Toes By Lukah Youngs!") ' EDITED ON GITHUB
         console.writeline("Edited on github, but i don't have to give credit")
+        console.writeline("Changed on github")
         Dim myboard As New TTTboard
         myboard.resetboard()
         Dim gameover As Boolean = False
